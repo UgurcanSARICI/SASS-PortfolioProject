@@ -6,7 +6,7 @@ Project aims to create SASS_Project within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[SASS_Project](https://github.com/UgurcanSARICI/SASS-PortfolioProject/)| Html Css Sass |![SASS_Project](Sass-Portfolio-Project.gif)
+[SASS_Project](https://ugurcansarici.github.io/SASS-PortfolioProject/)| Html Css Sass |![SASS_Project](Sass-Portfolio-Project.gif)
 
 
 ## Problem Statement
